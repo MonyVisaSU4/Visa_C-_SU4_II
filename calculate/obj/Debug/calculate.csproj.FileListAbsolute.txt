@@ -1,0 +1,7 @@
+D:\Data drive D\SU4\Year1 Semmester2\C#\Switch Lesson\calculate\calculate\bin\Debug\calculate.exe.config
+D:\Data drive D\SU4\Year1 Semmester2\C#\Switch Lesson\calculate\calculate\bin\Debug\calculate.exe
+D:\Data drive D\SU4\Year1 Semmester2\C#\Switch Lesson\calculate\calculate\bin\Debug\calculate.pdb
+D:\Data drive D\SU4\Year1 Semmester2\C#\Switch Lesson\calculate\calculate\obj\Debug\calculate.csproj.AssemblyReference.cache
+D:\Data drive D\SU4\Year1 Semmester2\C#\Switch Lesson\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+D:\Data drive D\SU4\Year1 Semmester2\C#\Switch Lesson\calculate\calculate\obj\Debug\calculate.exe
+D:\Data drive D\SU4\Year1 Semmester2\C#\Switch Lesson\calculate\calculate\obj\Debug\calculate.pdb
