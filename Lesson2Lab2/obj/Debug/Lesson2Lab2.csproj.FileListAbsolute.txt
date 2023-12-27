@@ -1,0 +1,8 @@
+D:\SU4\Year1 Semmester2\C#\Lesson2\Lesson2Lab\Lesson2Lab2\bin\Debug\Lesson2Lab2.exe.config
+D:\SU4\Year1 Semmester2\C#\Lesson2\Lesson2Lab\Lesson2Lab2\bin\Debug\Lesson2Lab2.exe
+D:\SU4\Year1 Semmester2\C#\Lesson2\Lesson2Lab\Lesson2Lab2\bin\Debug\Lesson2Lab2.pdb
+D:\SU4\Year1 Semmester2\C#\Lesson2\Lesson2Lab\Lesson2Lab2\obj\Debug\Lesson2Lab2.csproj.AssemblyReference.cache
+D:\SU4\Year1 Semmester2\C#\Lesson2\Lesson2Lab\Lesson2Lab2\obj\Debug\Lesson2Lab2.csproj.SuggestedBindingRedirects.cache
+D:\SU4\Year1 Semmester2\C#\Lesson2\Lesson2Lab\Lesson2Lab2\obj\Debug\Lesson2Lab2.csproj.CoreCompileInputs.cache
+D:\SU4\Year1 Semmester2\C#\Lesson2\Lesson2Lab\Lesson2Lab2\obj\Debug\Lesson2Lab2.exe
+D:\SU4\Year1 Semmester2\C#\Lesson2\Lesson2Lab\Lesson2Lab2\obj\Debug\Lesson2Lab2.pdb

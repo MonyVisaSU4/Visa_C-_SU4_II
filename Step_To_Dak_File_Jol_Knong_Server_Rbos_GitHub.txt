@@ -1,0 +1,23 @@
+To push your Project to server of git hub do :
+	-type ls : to see where your location is .
+	-type git init : to start your push .
+	-type git add . : to add your file to local .
+	-type git status to check your file where is it (if it show the system 
+	that does not record ownership try :
+	)
+	-type git commit -m ""(-m ប្រើសំរាប់ប្រាប់នូវ Message ថាអានិងយើងធ្វើ
+		ដល់ត្រឹមណា)
+		(ហើយនៅក្នុង "" ដាក់ឈ្មោះអីក៏បានដែរតាមបេះដូង)
+	- Copy a code in your repo--- and type git remote add origin 
+	(Past Your repo--- that you have copied) or you can copy it in your 
+		repo---)
+	-type git push : to push your project from local to server . (And copy
+	a code of git push then enter )
+---------------------------------------------------------------------------------------------------------------------
+ប្រសិនបើយើងកែ ឫ ថែមថយអីយើងគ្រាន់តែ :
+		- git add . (Add ចូលទាំងអស់តែម្តង)
+		-git status (ដឹងថាតើមានប៉ុន្មាន File ចូលទៅ Local)
+		-git commit (ដើម្បីធ្វើកាងារនឹង)
+		-git push (ដើម្បីដាក់អោយវាចូល ទៅ Server)
+---------------------------------------------------End--------------------------------------------------------------
+-------------------------------> Continue to next video Time=57:18
