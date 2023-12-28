@@ -21,4 +21,10 @@ To push your Project to server of git hub do :
 		-git push (ដើម្បីដាក់អោយវាចូល ទៅ Server)
 ---------------------------------------------------End--------------------------------------------------------------
 -------------------------------> Continue to next video Time=57:18
-Bsl o
+-git config --list : (យើងនិងឃើញ User ដែរយើង Config ហើយនៅលើ PC)
+Do this : git config --global user.name "" (ក្នុង "" ដាក់អីក៏បាន)
+-git clone បានន័យថា Clone Project របស់យើងមកដាក់លើទីតាំង Local ។
+-git branch ប្រើសំរាប់ធ្វើការ Check Branch យើង។
+-git branch YourBranchName បង្កើត Branch ។
+-git checkout YourBranchName ប្រើសំរាប់ Change ទីតាំងរបស់ Branch 
+------------------------------->At 9:13
